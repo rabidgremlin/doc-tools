@@ -1,5 +1,5 @@
 # doc-tools
-Docker image filled with handle markdown and doc tools.
+Docker image filled with handy markdown and doc tools.
 
 Contains:
 * pandoc
@@ -27,4 +27,3 @@ This is some _test_ markdown.
 docker run --rm -v ~/doc-tools-test:/doc-tools-test rabidgremlin/doc-tools pandoc /doc-tools-test/test.md -o /doc-tools-test/te
 st.pdf
 ```
-
