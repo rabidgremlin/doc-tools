@@ -1,2 +1,2 @@
 # doc-tools
-Docker image filled with handle markdown and doc tools.
+Docker image filled with handy markdown and doc tools.
